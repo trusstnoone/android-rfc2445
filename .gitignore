@@ -1,0 +1,29 @@
+# Common
+*.class
+*.dex
+*.war
+*.ear
+*.apk
+local.properties
+.metadata/
+bin/
+gen/
+release/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iml
+*.iws
+.idea/
+out/
+
+# Mac OS
+*.DS_Store
+
+# Maven
+log/
+target/
